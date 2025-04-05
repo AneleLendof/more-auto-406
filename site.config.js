@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "狼友收藏夹",
+    name: "PikPak18+",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "你想看的这里都有！",
+    bio: "全网精选18+资源，永久免费，更多收藏请访问pikpak18.top",
     email: "morethanmin.dev@gmail.com",
     linkedin: "morethanmin",
     github: "morethanmin",
@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `狼友收藏夹`,
-      href: "scj-vip.top",
+      name: `PikPak18+收藏主页`,
+      href: "https://pikpak18.top/about",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "标题",
-    description: "欢迎",
+    title: "PikPak18+资源站",
+    description: "欢迎来到PikPak18+预览站，本站为资源预览，完整收藏请访问pikpak18.top",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
